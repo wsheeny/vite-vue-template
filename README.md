@@ -4,18 +4,19 @@ Vite+Vue项目初始模板，已集成Vuex，VueRouter，Axios等其他主要插
 
 >本项目纯作为模板使用，无附加设计。
 
+
 #### 技术栈
 
--[x] Vite3 
--[x] Vue3 
--[x] Vuex
--[x] Vue Router 
--[x] Axios 
--[x] element-plus 
--[x] vueuse 
--[x] js-cookie 
--[x] normalize.css
--[x] eslint + prettier
+- Vite3
+- Vue3 
+- Vuex
+- Vue Router 
+- Axios 
+- element-plus 
+- vueuse 
+- js-cookie 
+- normalize.css
+- eslint + prettier
 
     ……
 
