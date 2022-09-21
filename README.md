@@ -22,10 +22,10 @@ Vite+Vue项目初始模板，已集成Vuex，VueRouter，Axios等其他主要插
 
 #### 主题预览
 
--[x] 日间模式
+- [x] 日间模式
 ![日间模式](./doc/light.png)
 
--[x] 黑夜模式
+- [x] 黑夜模式
 ![黑夜模式](./doc/dark.png)
 
 
